@@ -3,7 +3,7 @@
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=DaniloSV2007&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat)
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         👋 Olá, meu nome é Danilo
